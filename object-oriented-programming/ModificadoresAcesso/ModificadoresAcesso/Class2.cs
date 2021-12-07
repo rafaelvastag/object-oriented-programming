@@ -1,7 +1,7 @@
 ﻿namespace Assembly01
 {
-    public class Class2
+    internal class Class2
     {
-        public string Nome;
+        internal string Nome;
     }
 }

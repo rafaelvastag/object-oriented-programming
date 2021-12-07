@@ -8,6 +8,7 @@ namespace ModificadoresAcesso
         static void Main(string[] args)
         {
             Class3 c3 = new Class3();
+            
         }
     }
 }
