@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Assembly02;
+using System;
 
 namespace ModificadoresAcesso
 {
@@ -6,7 +7,7 @@ namespace ModificadoresAcesso
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Class3 c3 = new Class3();
         }
     }
 }
