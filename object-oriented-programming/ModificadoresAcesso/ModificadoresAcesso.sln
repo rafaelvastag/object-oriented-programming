@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly01", "Modificadores
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly02", "Assembly02\Assembly02.csproj", "{24568AF8-988D-429F-9DAF-AB758B416D70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Encapsulamento", "Encapsulamento\Encapsulamento.csproj", "{429A3ED8-52DC-4350-9078-389FB6040481}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{24568AF8-988D-429F-9DAF-AB758B416D70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24568AF8-988D-429F-9DAF-AB758B416D70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24568AF8-988D-429F-9DAF-AB758B416D70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{429A3ED8-52DC-4350-9078-389FB6040481}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{429A3ED8-52DC-4350-9078-389FB6040481}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{429A3ED8-52DC-4350-9078-389FB6040481}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{429A3ED8-52DC-4350-9078-389FB6040481}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
