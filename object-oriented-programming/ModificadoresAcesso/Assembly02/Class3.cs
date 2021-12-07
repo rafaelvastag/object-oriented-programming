@@ -2,6 +2,6 @@
 {
     public class Class3
     {
-        public string Nome;
+        internal string Nome;
     }
 }
